@@ -1,64 +1,46 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Education
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+### Texas A&M University
+- Ph.D. in Statistics (2024-Present)
+- First-year Ph.D. student
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### Previous Education
+- Research Visit, Westlake University
+  - Jian Yang's Lab
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Honors & Awards
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### Academic Excellence
+- Su Binghua Distinguished Biostatistics Scholarship ($2,800)
+  - Only undergraduate recipient among PhD candidates
+  - Awarded by Tigermed, 2024
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+### National Recognition
+- National Scholarship, Ministry of Education of China
+  - Top 0.2% of students nationally
+
+### Competition Awards
+- First Prize, National College Student Mathematics Competition
+- Meritorious Winner (M Award), Mathematical Contest in Modeling (MCM)
+
+## Research Experience
+
+### Mayo Clinic
+- Research Assistant
+- Project: MicrobiomeStat Development
+- Achievements:
+  - 17,000+ lines of R code
+  - 20,000+ words of documentation
+  - Shiny application development
+
+### Case Western Reserve University
+- Research Assistant
+- Project: ggpicrust2 Development
+- Supervisor: Prof. Liangliang Zhang
